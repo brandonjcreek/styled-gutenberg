@@ -1,0 +1,21 @@
+{
+  "name": "styled-gutenberg",
+  "version": "1.0.0",
+  "description":
+    "A React component that allows for automatic styling for content generated from the Wordpress Gutenberg editor.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["react", "wordpress", "gutenberg", "styled-components"],
+  "author": "Brandon J Creek",
+  "license": "MIT",
+  "devDependencies": {
+    "styled-components": "^3.2.6",
+    "react": "^16.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/npm/npm.git"
+  }
+}
