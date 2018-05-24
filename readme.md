@@ -7,7 +7,8 @@ A component for automatically adding layout styles for content generated in the 
 ## Code Samples
 
 Example React component fetching post content.
-import Gutenberg from "styled-gutenberg"
+
+        import Gutenberg from "styled-gutenberg"
 
         class App extends Component {
           state = { content: { rendered: "" } };
